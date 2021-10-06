@@ -1,0 +1,41 @@
+body{
+	background: url(../images/sunset.jpg);
+	background-size: cover;
+}
+
+h1 {
+	background-color: black;
+  color: red;
+  text-align: center;
+}
+.tag{
+	background-color: red;
+
+}
+#tag_3{
+	font-size: 50px;
+}
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	color: white;
+	padding: 60px;
+}
+.box_01{
+	width: 300px;
+	height: 200px;
+	background-color: rgba(08,09,09,.5);
+	margin: 100px;
+}
+.box_model{
+	width: 200px;
+	height: 200px;
+	border:  10px solid yellow;
+	margin: 40px;
+	padding: 30px;
+	background-color: blue;
+	color: white;
+
+}
+
